@@ -26,3 +26,5 @@ notes.post('/', (req, res) => {
         res.json('Error in posting note');
     }
 })
+
+module.exports = notes;
