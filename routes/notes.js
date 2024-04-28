@@ -9,7 +9,7 @@ notes.post('/', (req, res) => {
     const { text, title} = req.body
 
     if (text && title) {
-        const newNote {
+        const newNote = {
             text,
             title,
         }
