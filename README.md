@@ -28,6 +28,8 @@
   If you want to restart the note you can click the clear form in the top right, or save note to save it. 
   
   Any notes you have will be displayed on a list to the left. Clicking on the note text will pull it up on the right and clicking the trash can will delete the note.
+
+  You can check out the site here: https://note-taker-oxuh.onrender.com/
   
 ## Contributions
   
